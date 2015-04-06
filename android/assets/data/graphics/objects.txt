@@ -1,0 +1,74 @@
+objects.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acidpool
+  rotate: false
+  xy: 0, 160
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+blueblob
+  rotate: false
+  xy: 32, 48
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+gascloud
+  rotate: false
+  xy: 32, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goldenblob
+  rotate: false
+  xy: 0, 48
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+greenblob
+  rotate: false
+  xy: 0, 16
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+icicle
+  rotate: false
+  xy: 32, 16
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+meleeattack
+  rotate: false
+  xy: 16, 0
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+poisonball
+  rotate: false
+  xy: 0, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+poisonfield
+  rotate: false
+  xy: 0, 112
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+redblob
+  rotate: false
+  xy: 0, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
